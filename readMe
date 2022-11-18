@@ -1,0 +1,12 @@
+
+controller:
+
+domain:chứa các class entity để map vs DB
+
+model: entity
+
+repository: chua cac interface
+
+service: xu ly nghiep vu
+
+utils: chua cac phai tien ich

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../workspaceJS/unit1"
+		},
+		{
+			"path": "../../myProject/FE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FE"
+	}
+}
